@@ -1,0 +1,10 @@
+nth_odd = x ->
+    1 + (2 * x)
+
+baklava = x ->
+    for a in range x =>
+        print (" " * (x - a)) ("*" * nth_odd a)
+    for a in range x -1 -1 =>
+        print (" " * (x - a)) ("*" * nth_odd a)
+
+baklava 10
