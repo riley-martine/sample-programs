@@ -9,6 +9,7 @@ Welcome to Sample Programs in dg!
 - [Reverse a String in dg][2]
 - [Quine in dg][3]
   - Solution adapted from Wikipedia's page on Quines (Python) [8]
+- [File IO in dg][4]
 
 ## Fun Facts
 
@@ -26,6 +27,7 @@ Welcome to Sample Programs in dg!
 [1]: https://therenegadecoder.com/code/fizz-buzz-in-dg/
 [2]: https://therenegadecoder.com/code/reverse-a-string-in-dg/
 [3]: https://therenegadecoder.com/code/quine-in-dg/
+[4]: https://therenegadecoder.com/code/file-io-in-dg/
 [6]: https://github.com/pyos/dg
 [7]: https://pyos.github.io/dg/tutorial/
 [8]: https://en.wikipedia.org/wiki/Quine_(computing)#Examples
